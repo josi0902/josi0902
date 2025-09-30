@@ -44,7 +44,6 @@ Iniciar estudos em JavaScript.
 
 📖 Em aprendizado contínuo...
 
-✨ Contato
+✨ Contato: (48) 99692-2350
 
-👤 Seu Nome
 📧 Email: josimarvr0902@gmail.com
