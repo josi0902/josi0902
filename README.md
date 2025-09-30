@@ -47,4 +47,4 @@ Iniciar estudos em JavaScript.
 ✨ Contato
 
 👤 Seu Nome
-📧 Email: seuemail@email.com
+📧 Email: josimarvr0902@gmail.com
