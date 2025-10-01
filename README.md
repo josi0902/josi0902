@@ -14,29 +14,6 @@ Construir páginas web simples e funcionais.
 
 Acompanhar minha evolução como desenvolvedor front-end.
 
-🛠️ Tecnologias Utilizadas
-
-HTML5 📝
-
-CSS3 🎨
-
-Editor: VS Code
-
-📂 Estrutura do Repositório
-
-index.html → Página principal do projeto.
-
-style.css → Folha de estilos para personalização.
-
-img/ → Pasta com imagens usadas nos projetos.
-
-🚀 Próximos Passos
-
-Criar layouts responsivos.
-
-Estudar boas práticas de acessibilidade.
-
-Iniciar estudos em JavaScript.
 
 # 📊 GitHub Stats
 ![Josimar GitHub stats](https://github-readme-stats.vercel.app/api?username=josi0902&show_icons=true&theme=radical)
