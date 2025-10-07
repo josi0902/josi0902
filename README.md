@@ -22,6 +22,4 @@ Acompanhar minha evolução como desenvolvedor front-end.
 
 📖 Em aprendizado contínuo...
 
-✨ Contato: (48) 99692-2350
-
 📧 Email: josimarvr0902@gmail.com
